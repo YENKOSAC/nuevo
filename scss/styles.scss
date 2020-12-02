@@ -44,6 +44,7 @@ $verde:#20e2d7;
 // aca usaremos el BEM DEL INDEX
 .container__index {
     background: $blanco;
+    color: blue;
 }
 
 .col__titulo__index {
@@ -55,7 +56,7 @@ $verde:#20e2d7;
     justify-content: center;
     margin-top: 50px;
     // padding: 50px;
-    border: dotted black 2px;
+    border: dotted black 2.5px;
     height: 100%;
     width: 100%;
     color: blue;

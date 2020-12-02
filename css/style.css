@@ -29,7 +29,8 @@ variables sass
   opacity: 0.2; }
 
 .container__index {
-  background: #fff; }
+  background: #fff;
+  color: blue; }
 
 .col__titulo__index {
   display: flex;
@@ -39,7 +40,7 @@ variables sass
   align-items: center;
   justify-content: center;
   margin-top: 50px;
-  border: dotted black 2px;
+  border: dotted black 2.5px;
   height: 100%;
   width: 100%;
   color: blue;
