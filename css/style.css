@@ -29,7 +29,7 @@ variables sass
   opacity: 0.2; }
 
 .container__index {
-  background: white;
+  background: black;
   color: blue; }
 
 .col__titulo__index {
